@@ -13,9 +13,9 @@
 >ارزیابی ها
 
 ## ارزیابی بخش عمومی 
--[ارزیابی رزومه  و انگیزه نامه ](https://bahssanbeygi.github.io/Validation/validation1/)
+-[ارزیابی رزومه  و انگیزه نامه ](https://github.com/mahyabahmani/PNU_3991_AR/blob/main/validation2.pdf/)
 
--[ارزیابی بخش عمومی ](https://bahssanbeygi.github.io/Validation/validation2/)
+-[ارزیابی بخش عمومی ](https://github.com/mahyabahmani/PNU_3991_AR/blob/main/validation1.pdf)
 
 ## ارزیابی دروس کارشناسی ارشد
 -[ارزیابی درس الگوریتم پیشرفته ]()
