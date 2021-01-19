@@ -18,7 +18,7 @@
 -[ارزیابی بخش عمومی ](https://github.com/mahyabahmani/PNU_3991_AR/blob/main/General/MB_GeneralSection_CheckList_AR_3991_2.pdf)
 
 ## ارزیابی دروس کارشناسی ارشد
--[ارزیابی درس الگوریتم پیشرفته ](https://github.com/mahyabahmani/PNU_3991_AR/blob/main/XX_AdvancedAlgorithms_CheckList_AR_3991.pdf)
+-[ارزیابی درس الگوریتم پیشرفته ](https://github.com/mahyabahmani/PNU_3991_AR/blob/main/MB_AdvancedAlgorithms_CheckList_AR_3991.pdf)
 
 ------------------
 
