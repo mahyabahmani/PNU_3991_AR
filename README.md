@@ -13,7 +13,7 @@
 >ارزیابی ها
 
 ## ارزیابی بخش عمومی 
--[ارزیابی رزومه  و انگیزه نامه ](https://github.com/mahyabahmani/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
+-[ارزیابی رزومه  و انگیزه نامه ](https://github.com/mahyabahmani/PNU_3991_AR/blob/main/General/MB_CV_CheckList_AR_3991.pdf)
 
 -[ارزیابی بخش عمومی ](https://github.com/mahyabahmani/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991_2.pdf)
 
