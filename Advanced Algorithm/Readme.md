@@ -10,7 +10,7 @@
     
  ------------------
  1. [تمرین فردی]
-     1. [Ford-fulkerson]()
+     1. [Ford-fulkerson](https://aparat.com/v/1pmjE)
     
 --------------------
 
