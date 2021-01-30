@@ -4,8 +4,8 @@
 ---
 - [github](https://github.com/mahyabahmani)
 - [PNU_3991_AR](https://github.com/mahyabahmani/PNU_3991_AR)
-- [resume](https://github.com/mahyabahmani/Resume)
-- [SOP](https://github.com/mahyabahmani/SOP) 
+- [resume](https://mahyabahmani.github.io/Resume/)
+- [SOP](https://mahyabahmani.github.io/SOP/) 
 - [javascript Certificate](https://github.com/mahyabahmani/PNU_3991_AR/blob/main/pdf.pdf)
 - [jlord patchwork](https://github.com/mahyabahmani/PNU_3991_AR/blob/main/patchwork-mahya%20bahmani.JPG)
   
