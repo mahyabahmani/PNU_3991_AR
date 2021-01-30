@@ -13,7 +13,7 @@
 # تمرین ها
 ---------------
 1. [تمرین فردی]
-     1. [Convex-Hull](https://www.aparat.com/v/1pmjE)
+     1. [Ford-fulkerson](https://www.aparat.com/v/1pmjE)
      
 -------------------
 
