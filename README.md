@@ -9,6 +9,18 @@
 - [javascript Certificate](https://github.com/mahyabahmani/PNU_3991_AR/blob/main/pdf.pdf)
 - [jlord patchwork](https://github.com/mahyabahmani/PNU_3991_AR/blob/main/patchwork-mahya%20bahmani.JPG)
   
+   ------------------
+# تمرین ها
+---------------
+1. [تمرین فردی]
+     1. [Convex-Hull](https://www.aparat.com/v/1pmjE)
+     
+-------------------
+
+1. [G-A03تمرینات گروهی ]
+    1. [Binary search tree](https://www.aparat.com/v/mE1XP)
+    1. [Bubble sort](https://aparat.com/v/jk90Q)
+    1. [Ford-fulkerson](https://mirsalarinarjes.github.io/ford-fulkerson/)
   --------------
 >ارزیابی ها
 
